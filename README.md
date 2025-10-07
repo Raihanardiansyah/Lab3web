@@ -1,4 +1,4 @@
-# Pratikum 2 - CSS Dasar
+# Pratikum 3 - HTML Lanjutan
 ### NAMA : Raihan Ardiansyah
 ### NIM : 312410396
 ### KELAS : TI.24.A3
@@ -94,3 +94,13 @@
 <br>
 
 <img src="web8.png" width="700">
+
+## PERTANYAAN DAN TUGAS
+
+#### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+<img src="code12.png" width="700">
+
+<br>
+
+<img src="web9.png" width="700">
